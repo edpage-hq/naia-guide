@@ -16,7 +16,7 @@ export default defineVersionedConfig({
   // archive/README.md, which document the repo, not doc pages.
   srcExclude: ['*.md', 'archive/README.md'],
 
-  title: 'Docs',
+  title: 'Guide Naia',
 
   head: [
     [
@@ -28,11 +28,11 @@ export default defineVersionedConfig({
         href: `${base}images/icon.svg`,
       },
     ],
-    ['meta', { name: 'theme-color', content: '#0071BC' }],
+    ['meta', { name: 'theme-color', content: '#00a19a' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'fr' }],
-    ['meta', { property: 'og:title', content: 'Docs | Documentation' }],
-    ['meta', { property: 'og:site_name', content: 'Docs' }],
+    ['meta', { property: 'og:title', content: 'Guide Naia | Guide utilisateur' }],
+    ['meta', { property: 'og:site_name', content: 'Guide Naia' }],
     ['meta', { property: 'og:url', content: siteUrl }],
   ],
 
@@ -41,9 +41,9 @@ export default defineVersionedConfig({
     logo: {
       light: '/images/icon.svg',
       dark: '/images/icon-reverse.svg',
-      alt: 'Docs',
-      width: 48,
-      height: 48,
+      alt: 'Naia',
+      width: 40,
+      height: 40,
     },
 
     search: {

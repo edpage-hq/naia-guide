@@ -3,14 +3,22 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const en: LocaleInterface = {
   lang: 'en',
   label: 'English',
-  description: 'Documentation starter.',
+  description: "Naia's user guide, edPage group's project management platform.",
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'Naia Guide',
 
+    // @viteplus/versions prepends the locale segment to `base` itself
+    // (see its populateSidebar step) — writing `/en/guide/` here too
+    // doubled it into `/en/en/guide/`, which silently broke VitePress'
+    // prev/next page footer for every English page (it couldn't match
+    // the current route against that base, so it always fell back to
+    // the first sidebar entry). The French locale never hit this since
+    // its locale prefix is empty. Keep this relative, like `fr.ts`'s
+    // `/guide/`.
     sidebar: {
-      '/en/guide/': { base: '/en/guide/', items: sidebarGuide() },
+      '/en/guide/': { base: '/guide/', items: sidebarGuide() },
     },
 
     footer: {
@@ -23,26 +31,15 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Read the documentation',
-        link: '/en/guide/getting-started',
+        text: 'Read the guide',
+        link: '/en/guide/introduction',
         activeMatch: '/en/guide/',
       },
       {
-        text: 'Support',
-        items: [
-          {
-            text: 'Release notes',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
-            target: '_blank',
-            rel: 'noopener',
-          },
-          {
-            text: 'Report a problem',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
-            target: '_blank',
-            rel: 'noopener',
-          },
-        ],
+        text: 'Report a problem',
+        link: 'https://github.com/edpage-hq/naia-guide/issues',
+        target: '_blank',
+        rel: 'noopener',
       },
       { component: 'VersionSwitcher' },
     ],
@@ -52,14 +49,24 @@ function nav(): NavType {
 function sidebarGuide(): SidebarItemType[] {
   return [
     {
-      text: 'Introduction',
+      text: 'Welcome',
       collapsed: false,
-      items: [{ text: 'Getting started', link: 'getting-started' }],
+      items: [
+        { text: 'Introduction', link: 'introduction' },
+        { text: 'Need help?', link: 'support' },
+      ],
     },
     {
-      text: 'Others',
+      text: 'Guides by role',
       collapsed: false,
-      items: [{ text: 'About', link: 'about' }],
+      items: [
+        { text: 'Client', link: 'client' },
+        { text: 'Partner', link: 'partenaire' },
+        { text: 'Referrer', link: 'apporteur-affaires' },
+        { text: 'Project manager & Collaborators', link: 'chef-projet-collaborateurs' },
+        { text: 'Administrator', link: 'administrateur' },
+        { text: 'Direction', link: 'direction' },
+      ],
     },
   ]
 }

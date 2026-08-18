@@ -3,11 +3,11 @@ import type { DefaultTheme, LocaleInterface, NavType, SidebarItemType } from '@v
 export const fr: LocaleInterface = {
   lang: 'fr',
   label: 'Français',
-  description: 'Starter de documentation.',
+  description: 'Le guide utilisateur de Naia, la plateforme de gestion de projets d’edPage group.',
 
   themeConfig: {
     nav: nav(),
-    siteTitle: 'Documentation',
+    siteTitle: 'Guide Naia',
 
     sidebar: {
       '/guide/': { base: '/guide/', items: sidebarGuide() },
@@ -56,26 +56,15 @@ function nav(): NavType {
   return {
     root: [
       {
-        text: 'Lire la documentation',
-        link: '/guide/getting-started',
+        text: 'Lire le guide',
+        link: '/guide/introduction',
         activeMatch: '/guide/',
       },
       {
-        text: 'Support',
-        items: [
-          {
-            text: 'Notes de version',
-            link: 'https://github.com/edpage-hq/guide-starter/releases',
-            target: '_blank',
-            rel: 'noopener',
-          },
-          {
-            text: 'Signaler un problème',
-            link: 'https://github.com/edpage-hq/guide-starter/issues',
-            target: '_blank',
-            rel: 'noopener',
-          },
-        ],
+        text: 'Signaler un problème',
+        link: 'https://github.com/edpage-hq/naia-guide/issues',
+        target: '_blank',
+        rel: 'noopener',
       },
       { component: 'VersionSwitcher' },
     ],
@@ -85,14 +74,24 @@ function nav(): NavType {
 function sidebarGuide(): SidebarItemType[] {
   return [
     {
-      text: 'Introduction',
+      text: 'Bienvenue',
       collapsed: false,
-      items: [{ text: 'Pour commencer', link: 'getting-started' }],
+      items: [
+        { text: 'Introduction', link: 'introduction' },
+        { text: "Besoin d'aide ?", link: 'support' },
+      ],
     },
     {
-      text: 'Autres',
+      text: 'Guides par rôle',
       collapsed: false,
-      items: [{ text: 'A propos', link: 'about' }],
+      items: [
+        { text: 'Client', link: 'client' },
+        { text: 'Partenaire', link: 'partenaire' },
+        { text: "Apporteur d'affaires", link: 'apporteur-affaires' },
+        { text: 'Chef de projet & Collaborateurs', link: 'chef-projet-collaborateurs' },
+        { text: 'Administrateur', link: 'administrateur' },
+        { text: 'Direction', link: 'direction' },
+      ],
     },
   ]
 }

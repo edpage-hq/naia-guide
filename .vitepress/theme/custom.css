@@ -1,5 +1,44 @@
 /* .vitepress/theme/custom.css */
 :root {
+  /* Naia brand — teal #00a19a / magenta #9e1f63, same palette as the app */
   --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #00a19a, #9e1f63);
+  --vp-c-brand-1: #00a19a;
+  --vp-c-brand-2: #00a19a;
+  --vp-c-brand-3: #00a19a;
+}
+
+.role-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  margin: 24px 0 48px;
+}
+
+.role-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 18px;
+  border-radius: 12px;
+  border: 1px solid var(--vp-c-divider);
+  text-decoration: none !important;
+  transition:
+    border-color 0.2s,
+    background-color 0.2s;
+}
+
+.role-card:hover {
+  border-color: #00a19a;
+  background-color: var(--vp-c-bg-soft);
+}
+
+.role-card strong {
+  color: var(--vp-c-text-1);
+  font-size: 0.95rem;
+}
+
+.role-card span {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
 }
