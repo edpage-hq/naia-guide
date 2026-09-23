@@ -23,7 +23,7 @@ On a project's page, you'll find the same Tracking/Collaboration/Finance tabs as
 ## Billing and financial tracking
 
 - Track the payment schedule and billing status of your portfolio's projects (due, paid, and upcoming installments) from each project's **Billing** tab.
-- You're notified if one of your projects is suspended for non-payment.
+- A project blocked for non-payment shows the **Blocked (unpaid)** status in your portfolio.
 - Your dashboard shows the total of your **commissions due and paid**, automatically calculated on the payments actually received from your projects' clients (not just the invoiced amount) — your commission rate is set by the administrator and stated in your agency agreement.
 
 ## Inviting a client

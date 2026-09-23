@@ -28,6 +28,6 @@ Les modalités de votre rémunération (forfait, pourcentage d'un jalon ou taux 
 
 Échangez avec l'équipe interne via la messagerie intégrée ou les commentaires de tâche. Vous êtes notifié des validations, retours ou nouvelles échéances.
 
-::: warning Projet suspendu
-Si un projet est suspendu pour facture impayée côté client, votre accès aux tâches concernées est temporairement bloqué, jusqu'à ce que le chef de projet ou l'administrateur lève la suspension.
+::: warning Projet bloqué pour impayé
+Si un projet est bloqué pour impayé côté client, vous en êtes notifié. Vous pouvez terminer une tâche déjà démarrée, mais pas en démarrer une nouvelle avant le déblocage. Vous gardez l'accès au projet, à vos documents et à la messagerie.
 :::

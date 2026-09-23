@@ -10,15 +10,16 @@ Ce guide est organisé par rôle : chaque profil n'a accès qu'à ce qui le conc
 
 ## Les rôles sur Naia
 
-| Rôle                     | Ce qu'il fait sur Naia                                                    | Guide                                                                 |
-| ------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **Client**               | Suit l'avancement de son projet, valide les livrables, règle ses factures | [Guide Client](./client)                                              |
-| **Partenaire**           | Exécute des tâches confiées par un chef de projet, dépose ses factures    | [Guide Partenaire](./partenaire)                                      |
-| **Apporteur d'affaires** | Suit le portefeuille de clients qu'il a apportés et ses commissions       | [Guide Apporteur d'affaires](./apporteur-affaires)                    |
-| **Chef de projet**       | Pilote un ou plusieurs projets de bout en bout                            | [Guide Chef de projet & Collaborateurs](./chef-projet-collaborateurs) |
-| **Collaborateur**        | Exécute des missions techniques (développement, conseil, cybersécurité…)  | [Guide Chef de projet & Collaborateurs](./chef-projet-collaborateurs) |
-| **Administrateur**       | Gère les comptes, la facturation et la sécurité de la plateforme          | [Guide Administrateur](./administrateur)                              |
-| **Direction**            | Consulte une vue d'ensemble, en lecture seule, de toute l'activité        | [Guide Direction](./direction)                                        |
+| Rôle                     | Ce qu'il fait sur Naia                                                                   | Guide                                                                 |
+| ------------------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Client**               | Suit l'avancement de son projet, valide les livrables, règle ses factures                | [Guide Client](./client)                                              |
+| **Partenaire**           | Exécute des tâches confiées par un chef de projet, dépose ses factures                   | [Guide Partenaire](./partenaire)                                      |
+| **Apporteur d'affaires** | Suit le portefeuille de clients qu'il a apportés et ses commissions                      | [Guide Apporteur d'affaires](./apporteur-affaires)                    |
+| **Chef de projet**       | Pilote un ou plusieurs projets de bout en bout                                           | [Guide Chef de projet & Collaborateurs](./chef-projet-collaborateurs) |
+| **Collaborateur**        | Exécute des missions techniques (développement, conseil, cybersécurité…)                 | [Guide Chef de projet & Collaborateurs](./chef-projet-collaborateurs) |
+| **Administrateur**       | Gère les comptes, la facturation et la sécurité de la plateforme                         | [Guide Administrateur](./administrateur)                              |
+| **Direction**            | Consulte une vue d'ensemble de toute l'activité, décide du blocage pour impayé           | [Guide Direction](./direction)                                        |
+| **Contributeur externe** | Membre d'un pôle (Commercial, Support, RH, Facturation) qui transmet ses demandes à Naia | [Guide Contributeur externe](./contributeur-externe)                  |
 
 Un compte n'a jamais qu'un seul rôle à la fois — les permissions et le contenu du tableau de bord s'adaptent automatiquement.
 

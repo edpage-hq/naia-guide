@@ -28,6 +28,6 @@ The terms of your compensation (flat fee, percentage of a milestone, or daily ra
 
 Talk with the internal team via built-in messaging or task comments. You're notified of approvals, feedback, or new deadlines.
 
-::: warning Suspended project
-If a project is suspended because of an unpaid client invoice, your access to the affected tasks is temporarily blocked, until the project manager or the administrator lifts the suspension.
+::: warning Project blocked for non-payment
+If a project is blocked because of a client's unpaid invoice, you're notified. You can finish a task you've already started, but not start a new one until the project is unblocked. You keep access to the project, your documents and messaging.
 :::

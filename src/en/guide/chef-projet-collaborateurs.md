@@ -14,14 +14,18 @@ This guide covers two closely related profiles: the **Project manager**, who run
 
 - Create a new project from **Projects > New project**: client, project manager, an optional referrer, and a **project type**. The chosen type automatically pre-fills the default phases and milestones of the matching methodology (eight types available: Website / digital presence, Custom application or platform, Digital transformation consulting, Information systems architecture, Cloud & infrastructure, Cybersecurity, AI & data, Training).
 - Adjust the pre-filled phases and milestones if needed (rename, reorder, set each billable milestone's billing percentage) from the project page's **Tracking** tab.
+- Each project carries a unique reference (e.g. `NAIA-0142`), which the poles use to refer to it.
 - Build the project team from the **Team** tab and assign tasks, including to external partners — specify their compensation type (flat fee, milestone percentage, or daily rate).
+- Need reinforcement? In the **Team** tab, **Request reinforcement**: describe the required profile (e.g. "Senior Vue developer") and add details if needed. The request goes to the HR pole; the person they pick joins the team automatically, and you're notified.
+- The Support and Commercial poles can report a development need on your project: it becomes a task, with a **Support** or **Commercial** badge showing its origin, and you're notified.
 - Track overall progress via the **Gantt** view (by phase and milestone) or the **Kanban** view (by task status).
 
 ### Milestones and billing
 
 - When a **non-billable** milestone is reached, add a report visible to the client (and, when relevant, a preview link to a working version of the project at that stage).
-- When a **billable** milestone is reached, the amount due is recorded, based on its billing percentage. Flag it to the administrator, who takes care of issuing the corresponding invoice.
-- If an invoice remains unpaid past the agreed period, you can suspend or lift the project's access suspension, alongside the administrator.
+- When a **billable** milestone is reached, the amount due is recorded, based on its billing percentage, and automatically signalled to the Billing pole.
+- An internal invoice going overdue is flagged to you for information only. Only an overdue payment reported by the Billing pole can lead to the project being blocked, on the decision of Direction or the administrator — you can neither block nor unblock a project.
+- On a project **blocked for non-payment**, tasks already started can finish, but you can't start a new task or validate a milestone until it's unblocked. You can still plan tasks, exchange and upload documents.
 
 ### Amendments and closing
 
