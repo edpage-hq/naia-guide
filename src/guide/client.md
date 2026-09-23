@@ -10,7 +10,7 @@ Suivre vos projets, valider vos livrables, régler vos factures.
 
 Après connexion, votre tableau de bord regroupe :
 
-- le nombre total de vos projets, par statut (actif, suspendu, terminé) ;
+- le nombre total de vos projets, par statut (actif, bloqué pour impayé, terminé) ;
 - vos jalons atteints et jalons en attente ;
 - vos projets récents, avec accès direct à leur fiche ;
 - vos échéances de facturation à venir, avec mise en évidence des factures en retard ;
@@ -51,7 +51,7 @@ Depuis l'onglet **Facturation** :
 - réglez une facture directement depuis la plateforme via Mobile Money (Flooz, T-Money) ou carte bancaire, ou déclarez un règlement par virement bancaire classique.
 
 ::: warning Facture impayée
-Si une facture reste impayée au-delà du délai convenu, l'accès à votre projet peut être suspendu par votre chef de projet ou l'administrateur, jusqu'à régularisation.
+Si un paiement reste en retard, la Direction ou l'administrateur peut bloquer votre projet jusqu'à régularisation. Vous gardez l'accès au projet : vous pouvez toujours consulter, échanger, signer et régler vos factures. Seule la progression du projet (démarrage de nouvelles tâches, validation de jalons) est suspendue jusqu'au déblocage.
 :::
 
 ## Communication

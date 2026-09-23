@@ -10,7 +10,7 @@ Track your projects, approve deliverables, pay your invoices.
 
 After signing in, your dashboard brings together:
 
-- your total number of projects, by status (active, suspended, completed);
+- your total number of projects, by status (active, blocked for non-payment, completed);
 - your reached and pending milestones;
 - your recent projects, with direct access to their page;
 - your upcoming invoices, with overdue ones highlighted;
@@ -51,7 +51,7 @@ From the **Billing** tab:
 - pay an invoice directly from the platform via Mobile Money (Flooz, T-Money) or card, or declare a payment made by regular bank transfer.
 
 ::: warning Unpaid invoice
-If an invoice remains unpaid past the agreed period, access to your project can be suspended by your project manager or the administrator, until the situation is resolved.
+If a payment stays overdue, Direction or the administrator can block your project until it's settled. You keep access to the project: you can still view, exchange, sign and pay your invoices. Only the project's progress (starting new tasks, validating milestones) is on hold until it's unblocked.
 :::
 
 ## Communication

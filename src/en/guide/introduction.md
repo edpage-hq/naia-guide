@@ -10,15 +10,16 @@ This guide is organized by role: each profile only has access to what concerns i
 
 ## Roles on Naia
 
-| Role                | What they do on Naia                                                   | Guide                                                                 |
-| ------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **Client**          | Tracks their project's progress, approves deliverables, pays invoices  | [Client guide](./client)                                              |
-| **Partner**         | Carries out tasks assigned by a project manager, submits invoices      | [Partner guide](./partenaire)                                         |
-| **Referrer**        | Tracks the portfolio of clients they've referred and their commissions | [Referrer guide](./apporteur-affaires)                                |
-| **Project manager** | Runs one or more projects end to end                                   | [Project manager & Collaborators guide](./chef-projet-collaborateurs) |
-| **Collaborator**    | Carries out technical work (development, consulting, cybersecurity…)   | [Project manager & Collaborators guide](./chef-projet-collaborateurs) |
-| **Administrator**   | Manages accounts, billing and platform security                        | [Administrator guide](./administrateur)                               |
-| **Direction**       | Views a read-only overview of the whole activity                       | [Direction guide](./direction)                                        |
+| Role                     | What they do on Naia                                                                 | Guide                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| **Client**               | Tracks their project's progress, approves deliverables, pays invoices                | [Client guide](./client)                                              |
+| **Partner**              | Carries out tasks assigned by a project manager, submits invoices                    | [Partner guide](./partenaire)                                         |
+| **Referrer**             | Tracks the portfolio of clients they've referred and their commissions               | [Referrer guide](./apporteur-affaires)                                |
+| **Project manager**      | Runs one or more projects end to end                                                 | [Project manager & Collaborators guide](./chef-projet-collaborateurs) |
+| **Collaborator**         | Carries out technical work (development, consulting, cybersecurity…)                 | [Project manager & Collaborators guide](./chef-projet-collaborateurs) |
+| **Administrator**        | Manages accounts, billing and platform security                                      | [Administrator guide](./administrateur)                               |
+| **Direction**            | Views an overview of the whole activity, decides on blocking for non-payment         | [Direction guide](./direction)                                        |
+| **External contributor** | Member of a pole (Commercial, Support, HR, Billing) who sends their requests to Naia | [External contributor guide](./contributeur-externe)                  |
 
 An account only ever has one role at a time — permissions and dashboard content adapt automatically.
 

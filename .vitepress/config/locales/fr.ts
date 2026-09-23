@@ -91,6 +91,7 @@ function sidebarGuide(): SidebarItemType[] {
         { text: 'Chef de projet & Collaborateurs', link: 'chef-projet-collaborateurs' },
         { text: 'Administrateur', link: 'administrateur' },
         { text: 'Direction', link: 'direction' },
+        { text: 'Contributeur externe', link: 'contributeur-externe' },
       ],
     },
   ]
