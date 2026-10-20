@@ -44,7 +44,7 @@ Vous êtes notifié, dans l'application et par e-mail, à chaque nouvelle soumis
 - Quand le pôle Facturation signale un paiement **en retard**, vous êtes alerté, comme la Direction. Depuis la fiche du projet, décidez de **Bloquer le projet** ou de **Ne pas bloquer**. Quand le paiement est revenu à jour, **débloquez le projet**.
 - Le blocage est un verrou « doux » : les tâches déjà démarrées se terminent, mais personne — chef de projet compris — ne peut démarrer une nouvelle tâche ni valider un jalon. Tout le reste reste possible, y compris payer. Seul le projet concerné est bloqué, jamais les autres projets du client.
 - Consultez le **journal d'audit** pour retracer les actions effectuées sur la plateforme.
-- Gérez les aspects de sécurité de votre propre compte (mot de passe, authentification à deux facteurs) depuis **Paramètres > Sécurité** — activer la 2FA vous est proposé automatiquement à la connexion.
+- Gérez la sécurité de votre propre compte depuis **Paramètres > Sécurité**. La double authentification est obligatoire pour vous : un code vous est envoyé par e-mail à chaque connexion, sauf sur un appareil mémorisé ou si vous activez une application d'authentification (voir [Sécurité du compte](./introduction#double-authentification)).
 
 ## Support de premier niveau
 
@@ -54,11 +54,11 @@ Vous assurez le support de premier niveau aux utilisateurs de la plateforme.
 
 **Catégorisation des demandes :**
 
-| Catégorie              | Exemples                                                              | Délai de première réponse indicatif              |
-| ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------ |
-| Accès / connexion      | Mot de passe oublié, compte suspendu à tort, 2FA bloquante            | 4 heures ouvrées                                 |
-| Facturation / paiement | Facture non reçue, paiement en ligne échoué, désaccord sur un montant | 1 jour ouvré                                     |
-| Fonctionnel            | Question d'utilisation, comportement inattendu d'une fonctionnalité   | 1 jour ouvré                                     |
-| Anomalie technique     | Erreur bloquante, page inaccessible                                   | 4 heures ouvrées, escalade immédiate si bloquant |
+| Catégorie              | Exemples                                                                | Délai de première réponse indicatif              |
+| ---------------------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
+| Accès / connexion      | Mot de passe oublié, compte suspendu à tort, code de connexion non reçu | 4 heures ouvrées                                 |
+| Facturation / paiement | Facture non reçue, paiement en ligne échoué, désaccord sur un montant   | 1 jour ouvré                                     |
+| Fonctionnel            | Question d'utilisation, comportement inattendu d'une fonctionnalité     | 1 jour ouvré                                     |
+| Anomalie technique     | Erreur bloquante, page inaccessible                                     | 4 heures ouvrées, escalade immédiate si bloquant |
 
 **Traitement :** accusez réception → qualifiez la catégorie et vérifiez que la personne a légitimement accès à la ressource concernée → traitez directement si la résolution relève de vous (réinitialisation d'accès, correction de facture, déblocage d'un projet) → sinon, escaladez vers l'équipe de développement pour toute anomalie technique → confirmez la résolution auprès du demandeur.

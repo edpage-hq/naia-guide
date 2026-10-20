@@ -31,10 +31,24 @@ If you haven't received an invitation but should have access to a project, conta
 
 ## Account security
 
+### Two-factor authentication
+
+If your role requires it (administrator, Management, sales manager, cashier, HR manager), Naia asks for a second code at each sign-in, after your password:
+
+- **by default, a 6-digit code is e-mailed to you.** Enter it on the screen that appears. It is valid for 15 minutes; if it doesn't arrive, click **Send a new code** (at most once a minute) and check your spam folder;
+- tick **Remember this device** to stop receiving codes on this browser for 30 days. Don't on a shared computer;
+- if you prefer, turn on an authenticator app (Google Authenticator, Microsoft Authenticator…) from **Settings > Security**: it then gives you the code, and no e-mail is sent anymore.
+
+For other accounts, two-factor authentication is optional but recommended.
+
+### Security settings
+
 From **Settings > Security**, you can:
 
-- change your password;
-- enable two-factor authentication (2FA), strongly recommended and automatically suggested to administrators when they sign in.
+- change your password. Remembered devices are then forgotten, and a code will be asked again;
+- turn on two-factor authentication with an app, or add a passkey;
+- review your **remembered devices** and forget one, for example after using a computer that isn't yours;
+- see your active sessions and sign out other devices.
 
 ## Notifications and messaging
 

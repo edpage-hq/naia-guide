@@ -44,7 +44,7 @@ You're notified, in the app and by e-mail, of every new submission.
 - When the Billing pole reports a payment as **overdue**, you're alerted, as is Direction. From the project page, choose **Block the project** or **Do not block**. Once the payment is back up to date, **unblock the project**.
 - Blocking is a "soft" lock: tasks already started can finish, but nobody — the project manager included — can start a new task or validate a milestone. Everything else remains possible, including paying. Only the project concerned is blocked, never the client's other projects.
 - Review the **audit log** to trace actions taken on the platform.
-- Manage your own account's security (password, two-factor authentication) from **Settings > Security** — enabling 2FA is automatically suggested to you when you sign in.
+- Manage your own account's security from **Settings > Security**. Two-factor authentication is mandatory for you: a code is e-mailed to you at each sign-in, except on a remembered device or if you turn on an authenticator app (see [Account security](./introduction#two-factor-authentication)).
 
 ## First-level support
 
@@ -54,11 +54,11 @@ You handle first-level support for platform users.
 
 **Categorizing requests:**
 
-| Category          | Examples                                                     | Indicative first-response time                     |
-| ----------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| Access / login    | Forgotten password, wrongly suspended account, blocking 2FA  | 4 business hours                                   |
-| Billing / payment | Invoice not received, failed online payment, disputed amount | 1 business day                                     |
-| Functional        | Usage question, unexpected feature behavior                  | 1 business day                                     |
-| Technical issue   | Blocking error, inaccessible page                            | 4 business hours, immediate escalation if blocking |
+| Category          | Examples                                                                 | Indicative first-response time                     |
+| ----------------- | ------------------------------------------------------------------------ | -------------------------------------------------- |
+| Access / login    | Forgotten password, wrongly suspended account, sign-in code not received | 4 business hours                                   |
+| Billing / payment | Invoice not received, failed online payment, disputed amount             | 1 business day                                     |
+| Functional        | Usage question, unexpected feature behavior                              | 1 business day                                     |
+| Technical issue   | Blocking error, inaccessible page                                        | 4 business hours, immediate escalation if blocking |
 
 **Handling:** acknowledge the request → categorize it and verify the person legitimately has access to the resource in question → handle it directly if it's within your remit (resetting access, correcting an invoice, unblocking a project) → otherwise, escalate to the development team for any technical issue → confirm resolution with the requester.

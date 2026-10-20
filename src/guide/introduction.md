@@ -31,10 +31,24 @@ Si vous n'avez pas reçu d'invitation mais devriez avoir accès à un projet, co
 
 ## Sécurité du compte
 
+### Double authentification
+
+Si votre rôle l'exige (administrateur, Direction, responsable commercial, caissier, responsable RH), Naia vous demande un second code à chaque connexion, après votre mot de passe :
+
+- **par défaut, un code à 6 chiffres vous est envoyé par e-mail.** Saisissez-le sur l'écran qui s'affiche. Il est valable 15 minutes ; si vous ne le recevez pas, cliquez sur **Renvoyer un code** (au plus une fois par minute) et vérifiez vos courriers indésirables ;
+- cochez **Se souvenir de cet appareil** pour ne plus recevoir de code sur ce navigateur pendant 30 jours. Ne le faites pas sur un ordinateur partagé ;
+- si vous préférez, activez une application d'authentification (Google Authenticator, Microsoft Authenticator…) depuis **Paramètres > Sécurité** : c'est elle qui vous donnera le code, et vous ne recevrez plus d'e-mail.
+
+Pour les autres comptes, la double authentification est facultative mais recommandée.
+
+### Paramètres de sécurité
+
 Depuis **Paramètres > Sécurité**, vous pouvez :
 
-- changer votre mot de passe ;
-- activer l'authentification à deux facteurs (2FA), fortement recommandée et proposée automatiquement aux administrateurs à leur connexion.
+- changer votre mot de passe. Les appareils mémorisés sont alors oubliés, et un code vous sera de nouveau demandé ;
+- activer l'authentification à deux facteurs par application, ou ajouter une clé d'accès (passkey) ;
+- consulter vos **appareils mémorisés** et en oublier un, par exemple après avoir utilisé un ordinateur qui n'est pas le vôtre ;
+- voir vos sessions actives et déconnecter les autres appareils.
 
 ## Notifications et messagerie
 
