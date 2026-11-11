@@ -14,6 +14,7 @@ In **Leads**, you see and work all leads, for every product.
 
 - **Assign**: a lead with no code is assigned according to the "Assignment of leads without a code" setting (balanced distribution, or waiting for a manual assignment). A lead left without a sales agent is flagged to you; assign or reassign it from its sheet, with a reason.
 - **Leads linked to a referrer or influence partner**: they never go to an independent sales agent. They stay in your pool: edPage group sells, and the commission goes to the code's holder.
+- **Notify a member**: on the contract page, the **Documents** section lists the member's documents and their status. **Notify** prepares a draft (trial review, notice, formal notice, immediate termination, product or country withdrawal, suspension of an influence partner's code) from a signed document; the Direction sends it. It has no automatic effect on the contract.
 - **Leads that come back to you**: an open lead with no contact for 60 days, and the leads of a sales agent whose product is withdrawn or whose contract has ended.
 - **Deadlines**: you're alerted of each deadline passed by a sales agent (first contact, proposal, follow-up). The list can be filtered on overdue leads.
 
@@ -36,7 +37,7 @@ Sales agents request their discounts in Naia; you decide, from **Discounts to de
 
 - **Applications**: the applications submitted from the "Join the edPage network" page. Accept one by confirming or correcting the role and choosing the entrusted products: the applicant receives their signing link. Or decline it with an internal reason; the applicant receives a neutral e-mail, without the reason.
 - **Commercial contracts**: start the contract of a sales agent, referrer or influence partner, adjust their monthly objectives, read their reviews. 15 days before the end of a sales agent's trial period, you're asked to decide: renew once, or don't renew. You can also end a contract early, with 15 days' notice or immediately for serious misconduct.
-- **Make a referrer**: on a sales agent's contract page, this button makes them a referrer, with a reason. They keep their number (`ED-…` becomes `EDA-…`), their clients and their leads; their sales agent contract is closed and a referrer contract starts the same day. Their products are withdrawn: reassign their leads if needed. The other way round takes a new training and a new contract.
+- **Make a referrer**: on a sales agent's contract page, this button makes them a referrer, with a reason. They keep their number (`ED-…` becomes `EDA-…`), their clients and their leads; their sales agent contract is closed and a referrer contract starts the same day. Their products are withdrawn: reassign their leads if needed. Naia sends the member the amendment and the referral agreement, which they sign with a single code: the change applies once both are signed, and a refusal is reported to you. You can also record a change already signed outside Naia. The other way round takes a new training and a new contract.
 
 ## Sales commissions
 

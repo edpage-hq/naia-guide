@@ -71,6 +71,12 @@ After signing in, you land on **Today**. This page gathers:
 
 The menu on the left is grouped by area: Sales, Billing, Cash, Team, Support, Management and Administration. You only see the sections you have access to.
 
+## General terms and your documents
+
+At your first sign-in, and whenever a new version is published, Naia asks you to accept the **general terms**: read them, tick the box, then confirm. You can find them at any time in your account menu.
+
+Your account menu also holds **My documents**: the documents edPage group sends you (contract, amendment, notice), their status, and the signed PDFs. To sign a document, open it, read it to the end, request the code sent by e-mail and enter it. You can also refuse it, giving a reason. A document not signed in time expires: ask for a new one.
+
 ## Account security
 
 ### Two-factor authentication
