@@ -21,6 +21,10 @@ Votre page **Aujourd'hui** montre votre code et son statut, les clients que vous
 
 Aucune commission n'est possible avant que votre code soit actif.
 
+## Votre contrat
+
+Votre **contrat d'apport d'affaires (CT-04)** fixe votre taux de commission (5 à 15 %). Vous le signez dans **Mes documents**, avec un code reçu par e-mail. Tant qu'il n'est pas signé, vous ne pouvez pas être rattaché à un projet.
+
 ## Votre code
 
 - Un client qui donne votre code à sa première inscription ou à son premier devis vous est rattaché pour de bon, sur tous les produits. Un client n'a qu'un seul code.

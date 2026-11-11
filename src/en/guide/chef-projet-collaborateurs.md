@@ -41,6 +41,12 @@ This guide covers two closely related profiles: the **Project manager**, who run
 
 When a partner uploads their invoice in the **Partner payments** tab, check it and validate it. Validation creates a payment order in the Cash module; the invoice switches to "paid" on its own once the cashier has paid the order. The partner can withdraw their invoice until it's validated; after that, it's the payment order that gets cancelled.
 
+### Reports, signatures and partner contracts
+
+- In the **Reports** tab, create a report from one of the 12 templates (RA-01 to RA-04, RP-01 to RP-08): the sections are pre-filled, you complete them, then send it for signature. The client and edPage sign with a code; each document gets a number (RAI for an RA, RAP for an RP).
+- Project documents are numbered PF (pro forma), AVT (amendment), ATT (certificate, created when the project closes); new projects are PRJ-YYYY-NNN. Numbers already issued are kept.
+- Before adding a partner to a project, they must have signed the **framework contract (CT-01)** and the **confidentiality agreement (CT-02)**: the **Team** tab offers to send them. To give them tasks, send their **mission sheet (CT-03)** (scope, dates, expenses, conditions) and wait for their signature. The refusal message always names the missing document.
+
 ### Amendments and closing
 
 - Request an amendment from the **Amendments** tab if the project's scope, timeline or budget must change. The administrator prepares the document, which the client signs; the budget impact only applies once the amendment is signed.

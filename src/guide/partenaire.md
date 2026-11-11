@@ -14,6 +14,10 @@ Un chef de projet vous a invité à intervenir sur un ou plusieurs projets. Votr
 Avant de rejoindre un premier projet, vous devez avoir validé une formation du parcours « Partenaires et experts ». Vous y êtes inscrit depuis **Ma formation**. Un partenaire déjà affecté à un projet avant cette règle reste affectable.
 :::
 
+## Vos contrats
+
+Avant d'être ajouté à un projet, vous signez le **contrat-cadre (CT-01)** et la **convention de confidentialité (CT-02)**, avec un seul code. Pour chaque projet, une **fiche de mission (CT-03)** précise votre périmètre, vos dates et vos frais : des tâches ne peuvent vous être confiées qu'une fois qu'elle est signée. Ces documents sont dans **Mes documents** ; vous signez avec un code reçu par e-mail.
+
 ## Vos tâches
 
 Votre page **Aujourd'hui** et **Mes tâches** regroupent les missions qui vous sont confiées, tous projets confondus :
