@@ -14,6 +14,10 @@ A project manager has invited you to work on one or more projects. Your access i
 Before joining a first project, you must have passed a training from the "Partners and experts" track. You're enrolled from **My training**. A partner already assigned to a project before this rule can still be assigned.
 :::
 
+## Your contracts
+
+Before being added to a project, you sign the **framework contract (CT-01)** and the **confidentiality agreement (CT-02)**, with a single code. For each project, a **mission sheet (CT-03)** sets your scope, dates and expenses: tasks can only be given to you once it is signed. These documents are in **My documents**; you sign with a code sent by e-mail.
+
 ## Your tasks
 
 Your **Today** page and **My Tasks** gather the assignments given to you, across all projects:

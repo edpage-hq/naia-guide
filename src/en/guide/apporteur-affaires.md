@@ -21,6 +21,10 @@ Your **Today** page shows your code and its status, the clients you've brought, 
 
 No commission is possible before your code is active.
 
+## Your contract
+
+Your **business referral contract (CT-04)** sets your commission rate (5 to 15%). You sign it in **My documents**, with a code sent by e-mail. Until it is signed, you cannot be attached to a project.
+
 ## Your code
 
 - A client who gives your code at their first sign-up or first quote is linked to you for good, on every product. A client has only one code.

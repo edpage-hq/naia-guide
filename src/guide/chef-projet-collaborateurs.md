@@ -41,6 +41,12 @@ Ce guide couvre deux profils proches : le **Chef de projet**, qui pilote un proj
 
 Quand un partenaire dépose sa facture dans l'onglet **Paiements partenaires**, vérifiez-la puis validez-la. La validation crée un ordre de paiement dans la Caisse ; la facture passe « payée » d'elle-même quand le caissier a payé l'ordre. Le partenaire peut retirer sa facture tant qu'elle n'est pas validée ; après, c'est l'ordre de paiement qui s'annule.
 
+### Rapports, signatures et contrats des partenaires
+
+- Dans l'onglet **Rapports**, créez un rapport à partir de l'un des 12 modèles (RA-01 à RA-04, RP-01 à RP-08) : les sections sont préremplies, vous les complétez, puis vous l'envoyez en signature. Le client et edPage signent avec un code ; chaque document reçoit un numéro (RAI pour un RA, RAP pour un RP).
+- Les documents de projet sont numérotés PF (pro forma), AVT (avenant), ATT (attestation, créée à la clôture du projet) ; les nouveaux projets sont PRJ-AAAA-NNN. Les numéros déjà émis sont conservés.
+- Avant d'ajouter un partenaire à un projet, il doit avoir signé le **contrat-cadre (CT-01)** et la **convention de confidentialité (CT-02)** : l'onglet **Équipe** propose de les envoyer. Pour lui confier des tâches, envoyez-lui sa **fiche de mission (CT-03)** (périmètre, dates, frais, conditions) et attendez sa signature. Le message de refus nomme toujours le document manquant.
+
 ### Avenants et clôture
 
 - Demandez un avenant depuis l'onglet **Avenants** si le périmètre, le délai ou le budget du projet doit changer. L'administrateur prépare le document, que le client signe ; l'impact budgétaire ne s'applique qu'une fois l'avenant signé.

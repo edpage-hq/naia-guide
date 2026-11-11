@@ -41,7 +41,10 @@ Certains documents demandent votre signature, depuis l'onglet **Signatures** :
 
 - le **bon de livraison**, à la remise d'un livrable ou d'un équipement ;
 - l'**attestation de bonne fin d'exécution**, à la clôture du projet ;
-- un éventuel **avenant**, une fois qu'il a été préparé par l'administrateur. L'onglet n'apparaît qu'à ce moment-là.
+- un éventuel **avenant**, une fois qu'il a été préparé par l'administrateur. L'onglet n'apparaît qu'à ce moment-là ;
+- le **devis** et les **rapports** d'avancement ou de projet (RA, RP).
+
+Vous signez avec un code reçu par e-mail : ouvrez le document, lisez-le jusqu'au bout, cliquez sur **Recevoir mon code de signature**, saisissez le code puis **Signer**. Vous pouvez aussi **Refuser** en indiquant un motif. Quand edPage a aussi signé, vous recevez par e-mail l'exemplaire scellé en PDF. Un rapport d'avancement (RA) signé valide le jalon concerné. Un devis non signé au bout de 30 jours expire.
 
 ## Facturation et paiement
 

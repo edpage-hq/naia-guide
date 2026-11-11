@@ -41,7 +41,10 @@ Some documents need your signature, from the **Signatures** tab:
 
 - the **delivery note**, when a deliverable or equipment is handed over;
 - the **certificate of completion**, when the project closes;
-- an **amendment**, if any, once the administrator has prepared it. The tab only appears then.
+- an **amendment**, if any, once the administrator has prepared it. The tab only appears then;
+- the **quote** and the progress or project **reports** (RA, RP).
+
+You sign with a code sent by e-mail: open the document, read it to the end, click **Get my signing code**, enter the code, then **Sign**. You can also **Refuse** with a reason. Once edPage has signed too, you receive the sealed PDF copy by e-mail. A signed progress report (RA) validates its milestone. A quote not signed after 30 days expires.
 
 ## Billing and payment
 
