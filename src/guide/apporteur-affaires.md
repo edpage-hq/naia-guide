@@ -8,7 +8,7 @@ Recommander des clients avec votre code et suivre vos commissions.
 
 ## Votre rôle
 
-Vous recommandez des clients à edPage group ; edPage group vend et livre. Votre outil est votre **code apporteur**, de la forme `EDA-NOM` (par exemple `EDA-JOSEPH`). Il est privé : vous le donnez directement aux clients que vous recommandez.
+Vous recommandez des clients à edPage group ; edPage group vend et livre. Votre outil est votre **code apporteur**, de la forme `EDA-01TG4827` (votre numéro d'entrée dans votre pays, le code du pays, puis quatre chiffres). Naia l'attribue. Il est privé : vous le donnez directement aux clients que vous recommandez.
 
 Votre page **Aujourd'hui** montre votre code et son statut, les clients que vous avez apportés, vos commissions et vos invitations. Elle ne montre ni projets, ni jalons, ni tâches : ce n'est pas votre rôle de les suivre.
 

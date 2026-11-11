@@ -31,7 +31,9 @@ Remember to save your [payment details](./introduction#payment-details) in your 
 
 ## Your network code
 
-Your code is in the form `ED-NAME` (for instance `ED-JOSEPH`). It's private: you give it directly to your clients.
+Your code is in the form `ED-01TG4827`: your entry number in your country, the country code, then four digits. Naia assigns it and names you "Commercial Indépendant 01-Togo". It's private: you give it directly to your clients.
+
+This number stays yours: if you become a referrer, only the prefix changes (`EDA-01TG4827`), and your clients stay linked to you. If Management records another country of practice for you, you receive a new code in that country.
 
 - The first active code a client gives, at their first sign-up or first quote, is linked to them for good, on every product. A client has only one code.
 - An ERA Admissions or ELEIS CRM sign-up with your code creates the lead and assigns it to you, if that product is entrusted to you.
@@ -78,7 +80,7 @@ From an ERA or ELEIS lead's sheet, draw up a **proposal**:
 **Sending** is final: the proposal gets its number and a validity date (30 days by default), and the client receives a personal link to read it, sign the agreement if there is one, and pay. The lead switches to "quote sent". Once past its validity, a proposal has expired: draw up a new one.
 
 ::: warning Client outside the territory
-For a client outside the network's territory (Togo by default), a proposal can only be sent after Management's written approval, given on the lead's sheet.
+For a client outside your country of practice (Togo by default), a proposal can only be sent after Management's written approval, given on the lead's sheet.
 :::
 
 ### Requesting a discount

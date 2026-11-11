@@ -36,6 +36,7 @@ Les commerciaux demandent leurs remises dans Naia ; c'est vous qui décidez, dep
 
 - **Candidatures** : les candidatures déposées depuis la page « Rejoindre le réseau edPage ». Acceptez-en une en confirmant ou en corrigeant le rôle et en choisissant les produits confiés : le candidat reçoit son lien de signature. Ou déclinez-la avec un motif interne ; le candidat reçoit un e-mail neutre, sans le motif.
 - **Contrats commerciaux** : démarrez le contrat d'un commercial, d'un apporteur ou d'un partenaire d'influence, ajustez ses objectifs mensuels, consultez ses bilans. 15 jours avant la fin de la période d'essai d'un commercial, vous êtes invité à décider : renouveler une fois, ou ne pas renouveler. Vous pouvez aussi mettre fin à un contrat avant son terme, avec un préavis de 15 jours ou immédiatement pour manquement grave.
+- **Passer en apporteur d'affaires** : sur la fiche du contrat d'un commercial, ce bouton le fait devenir apporteur, avec un motif. Il garde son numéro (`ED-…` devient `EDA-…`), ses clients et ses pistes ; son contrat de commercial est clos et un contrat d'apporteur démarre le même jour. Ses produits lui sont retirés : réattribuez ses pistes si besoin. Le sens inverse passe par une nouvelle formation et un nouveau contrat.
 
 ## Commissions ventes
 
