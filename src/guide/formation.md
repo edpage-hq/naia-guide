@@ -29,6 +29,7 @@ Ce guide concerne le **gestionnaire formation** et le **formateur**, internes ou
 La validation a des effets ailleurs dans Naia :
 
 - un acteur commercial qui a validé toutes ses formations voit son **code activé** et ses produits ouverts. Le commercial indépendant doit le faire dans les 10 jours qui suivent la création de son compte ;
+- un commercial indépendant hors Togo ne peut déclarer une installation hors ligne qu'après avoir validé un cours marqué **Habilitation : installation hors ligne** (réglage du cours) ;
 - un partenaire ne peut rejoindre un premier projet qu'après avoir validé une formation « Partenaires et experts ».
 
 ## Nouvelle version d'une formation

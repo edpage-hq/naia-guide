@@ -29,6 +29,7 @@ This guide is for the **training manager** and the **trainer**, internal or exte
 Validation has effects elsewhere in Naia:
 
 - a sales actor who has passed all their trainings gets their **code activated** and their products opened. The independent sales agent must do so within 10 days of their account's creation;
+- an independent sales agent outside Togo can only declare an offline installation after passing a course marked **Habilitation: offline installation** (course setting);
 - a partner can only join a first project after passing a "Partners and experts" training.
 
 ## New version of a training
