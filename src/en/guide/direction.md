@@ -45,7 +45,8 @@ Your **Today** page also shows projects at risk: those for which the Billing pol
 
 - **Codes**: change the code locked on a client, or link a code to a client who has none within 7 days of their sign-up. Always with a reason.
 - **Partner code discount**: grant it as an exception or refuse it (fraud found), from the lead's page.
-- **Territory**: give the written approval that lets an independent sales agent send a proposal to a client outside the network's territory.
+- **Territory**: give the written approval that lets an independent sales agent send a proposal to a client outside their country of practice.
+- **Country of practice**: change a network member's country, from their commercial contract page. A country other than Togo needs the signed "outside Togo" document: enter its title, its signing date and its signatory. The member receives a new code in that country and keeps their clients; their former number is never given again.
 - **Price grid**: promotional periods and the partner code discount rate.
 - **Expense validation thresholds**, by type, from **Expenses**.
 - **Refunds**: approve or refuse them.

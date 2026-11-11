@@ -45,7 +45,8 @@ Votre page **Aujourd'hui** montre aussi les projets à risque : ceux dont le pô
 
 - **Codes** : changer le code verrouillé sur un client, ou rattacher un code à un client qui n'en a pas dans les 7 jours de son inscription. Toujours avec un motif.
 - **Remise de code partenaire** : l'accorder à titre exceptionnel ou la refuser (fraude découverte), depuis la fiche de la piste.
-- **Territoire** : donner l'accord écrit qui permet à un commercial indépendant d'envoyer une proposition à un client hors du territoire du réseau.
+- **Territoire** : donner l'accord écrit qui permet à un commercial indépendant d'envoyer une proposition à un client hors de son pays d'exercice.
+- **Pays d'exercice** : changer le pays d'un membre du réseau, depuis la fiche de son contrat commercial. Un pays autre que le Togo demande le document « hors Togo » signé : saisissez son intitulé, sa date de signature et son signataire. Le membre reçoit un nouveau code dans ce pays et garde ses clients ; son ancien numéro n'est jamais réattribué.
 - **Grille de prix** : les périodes promotionnelles et le taux de la remise du code partenaire.
 - **Seuils de validation des dépenses**, par type, depuis **Dépenses**.
 - **Remboursements** : les approuver ou les refuser.

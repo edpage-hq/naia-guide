@@ -31,7 +31,9 @@ Pensez à enregistrer vos [coordonnées de paiement](./introduction#coordonnees-
 
 ## Votre code réseau
 
-Votre code est de la forme `ED-NOM` (par exemple `ED-JOSEPH`). Il est privé : vous le donnez directement à vos clients.
+Votre code est de la forme `ED-01TG4827` : votre numéro d'entrée dans votre pays, le code du pays, puis quatre chiffres. Naia l'attribue et vous désigne « Commercial Indépendant 01-Togo ». Il est privé : vous le donnez directement à vos clients.
+
+Ce numéro vous reste : si vous devenez apporteur d'affaires, seul le préfixe change (`EDA-01TG4827`), et vos clients vous restent rattachés. Si la Direction enregistre pour vous un autre pays d'exercice, vous recevez un nouveau code dans ce pays.
 
 - Le premier code actif qu'un client donne, à sa première inscription ou à son premier devis, lui est rattaché pour de bon, sur tous les produits. Un client n'a qu'un seul code.
 - Une inscription ERA Admissions ou ELEIS CRM avec votre code crée la piste et vous l'attribue, si ce produit vous est confié.
@@ -78,7 +80,7 @@ Depuis la fiche d'une piste ERA ou ELEIS, établissez une **proposition** :
 L'**envoi** est définitif : la proposition reçoit son numéro et une date de validité (30 jours par défaut), et le client reçoit un lien personnel pour la lire, signer la convention s'il y en a une, et payer. La piste passe à « devis envoyé ». Passée sa validité, une proposition est expirée : établissez-en une nouvelle.
 
 ::: warning Client hors territoire
-Pour un client situé hors du territoire du réseau (Togo par défaut), une proposition ne peut partir qu'après l'accord écrit de la Direction, donné sur la fiche de la piste.
+Pour un client situé hors de votre pays d'exercice (le Togo par défaut), une proposition ne peut partir qu'après l'accord écrit de la Direction, donné sur la fiche de la piste.
 :::
 
 ### Demander une remise

@@ -36,6 +36,7 @@ Sales agents request their discounts in Naia; you decide, from **Discounts to de
 
 - **Applications**: the applications submitted from the "Join the edPage network" page. Accept one by confirming or correcting the role and choosing the entrusted products: the applicant receives their signing link. Or decline it with an internal reason; the applicant receives a neutral e-mail, without the reason.
 - **Commercial contracts**: start the contract of a sales agent, referrer or influence partner, adjust their monthly objectives, read their reviews. 15 days before the end of a sales agent's trial period, you're asked to decide: renew once, or don't renew. You can also end a contract early, with 15 days' notice or immediately for serious misconduct.
+- **Make a referrer**: on a sales agent's contract page, this button makes them a referrer, with a reason. They keep their number (`ED-…` becomes `EDA-…`), their clients and their leads; their sales agent contract is closed and a referrer contract starts the same day. Their products are withdrawn: reassign their leads if needed. The other way round takes a new training and a new contract.
 
 ## Sales commissions
 

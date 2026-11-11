@@ -8,7 +8,7 @@ Recommend clients with your code and follow your commissions.
 
 ## Your role
 
-You recommend clients to edPage group; edPage group sells and delivers. Your tool is your **referrer code**, in the form `EDA-NAME` (for instance `EDA-JOSEPH`). It's private: you give it directly to the clients you recommend.
+You recommend clients to edPage group; edPage group sells and delivers. Your tool is your **referrer code**, in the form `EDA-01TG4827` (your entry number in your country, the country code, then four digits). Naia assigns it. It's private: you give it directly to the clients you recommend.
 
 Your **Today** page shows your code and its status, the clients you've brought, your commissions and your invitations. It shows no projects, milestones or tasks: following them isn't your role.
 
