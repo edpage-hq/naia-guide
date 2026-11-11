@@ -40,6 +40,8 @@ Publish at least **3 videos a month** with the mention "Partner code EDI-…: I 
 
 In **My videos**, record each video (link and publication date): it's the required proof. Record it within 3 business days of publishing; after that, it's marked "late" but still counts. The month's counter tells you where you stand. If you start mid-month, the full minimum doesn't apply that month.
 
+Videos must appear on **at least 2 channels** a month (YouTube, TikTok, Instagram…): Naia works out the channel from the link. If you go **60 days without recording a video**, your code is **paused**: it can no longer be shared (a client who enters it sees "Code not active") and both you and the sales manager are notified. It becomes active again with your next recorded video.
+
 ## Your commissions
 
 - You earn a commission on the **first purchase** of each client who came through your code, calculated on what they actually paid: by default 15% on ERA and ELEIS licences, and 5% on each NEXTBOXX instalment of an admitted learner.
