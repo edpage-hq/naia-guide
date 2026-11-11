@@ -4,56 +4,69 @@ layout: doc
 
 # Guide — Client
 
-Track your projects, approve deliverables, pay your invoices.
+Follow your projects, approve your deliverables, sign and pay your invoices.
 
-## Your dashboard
+This guide is for clients who have a **project** with edPage group (website, application, consulting, infrastructure…). If you bought a product (ERA, ELEIS, SEDVER, NEXTBOXX), see [Product clients](#product-clients) below.
 
-After signing in, your dashboard brings together:
+## Your "Today" page
 
-- your total number of projects, by status (active, blocked for non-payment, completed);
-- your reached and pending milestones;
-- your recent projects, with direct access to their page;
-- your upcoming invoices, with overdue ones highlighted;
-- documents awaiting your approval.
+After signing in, the **Today** page gathers:
 
-## Tracking a project's progress
+- your projects, by status (active, blocked for non-payment, completed), with direct access to their page;
+- your milestones reached and pending;
+- your upcoming billing due dates, with overdue invoices highlighted;
+- the documents waiting for your approval.
+
+## Following a project's progress
 
 On a project's page, the navigation on the left groups information by theme:
 
-- **Tracking** — the project's phases and their milestones, a Gantt view of the whole, and the detail of ongoing tasks.
-- **Collaboration** — shared documents, the team assigned to your project, and messaging.
-- **Finance** — signatures to complete, billing, and, once formalized, any amendment.
+- **Tracking**: the project's phases and milestones, a Gantt view of the whole, and the details of tasks in progress.
+- **Collaboration**: shared documents, the team assigned to your project and messaging.
+- **Finance**: signatures to make, billing and, if there is one, the amendment.
 
-Whenever a non-billable milestone is reached, your project manager can leave a **report** visible from the Tracking tab. Some milestones also include a **preview link** to a working version of the project at that stage, when relevant to your project type.
+At each non-billable milestone reached, your project manager can leave a **report**, visible from the Tracking tab. Some milestones also include a **demo link** to a working version of the project at that stage.
 
 ## Documents and deliverables
 
 From your project's **Documents** tab:
 
-- view documents and deliverables shared by the project team;
-- upload your own documents (specifications, administrative files, feedback);
-- approve a deliverable or leave a comment directly from its page — the project team is notified of your decision.
+- view the documents and deliverables shared by the project team;
+- upload your own documents (specifications, administrative papers, feedback);
+- approve a deliverable or leave a comment from its page. The project team is told of your decision.
 
-## Electronic signature
+## Signatures
 
-Some documents require your electronic signature, from the **Signatures** tab:
+Some documents need your signature, from the **Signatures** tab:
 
-- the **delivery note**, when a deliverable or piece of equipment is handed over;
-- the **completion certificate**, when the project closes;
-- any **amendment**, once it has been formalized by the administrator (the tab only appears at that point, not while it's being drafted).
+- the **delivery note**, when a deliverable or equipment is handed over;
+- the **certificate of completion**, when the project closes;
+- an **amendment**, if any, once the administrator has prepared it. The tab only appears then.
 
 ## Billing and payment
 
+Each billable milestone validated by your project manager produces an invoice: the deposit at the first milestone, an interim invoice next, the balance at the last. Any equipment is invoiced in full before it's ordered.
+
 From the **Billing** tab:
 
-- view your project's payment schedule and the status of each installment (upcoming, due, paid);
-- download your invoices (deposit, intermediate, balance or equipment, depending on the case) — you're notified when they're sent, with a reminder before the due date;
-- pay an invoice directly from the platform via Mobile Money (Flooz, T-Money) or card, or declare a payment made by regular bank transfer.
+- view your project's payment schedule and the status of each due date (upcoming, due, paid);
+- download your invoices. You're told by e-mail when they're sent, then reminded if an invoice is still unpaid after its due date;
+- pay an invoice online by Mobile Money, or declare a bank transfer by attaching its proof (PDF or image, 5 MB at most). The cashier checks the transfer on the statement, then validates it; if they refuse it, you see the reason;
+- download the **receipt** for each confirmed payment. It's also sent to you by e-mail.
 
 ::: warning Unpaid invoice
-If a payment stays overdue, Direction or the administrator can block your project until it's settled. You keep access to the project: you can still view, exchange, sign and pay your invoices. Only the project's progress (starting new tasks, validating milestones) is on hold until it's unblocked.
+If a payment stays overdue, Management or the administrator can block your project until it's settled. You keep access to the project: you can still view, talk, sign and pay your invoices. Only the project's progress (starting new tasks, validating milestones) is paused until it's unblocked.
 :::
 
 ## Communication
 
-Talk with the project team via the built-in messaging, without leaving the platform. You receive automatic notifications at key steps: milestone reached, deliverable submitted, delay reported, payment due.
+Talk with the project team through the built-in messaging. You're notified at key steps: milestone reached, deliverable submitted, delay reported, payment due.
+
+## Product clients
+
+If you bought ERA, ELEIS or a SEDVER service, you don't necessarily have a Naia account:
+
+- **Sales proposal**: you receive it with a personal link. That link lets you read the proposal and its schedule, download its PDF, sign the agreement or subscription when there is one, and pay online or declare a transfer. The product is activated once the first payment is received (and the document signed, if there is one).
+- **Customer area**: the support team sends you a personal link to your edPage customer area. There you create and follow your requests, give or withdraw your consent to a remote intervention, find your proposals, their payment link and your receipts, and rate a resolved request.
+- **Support**: write to <support@edpage.net>. Each e-mail becomes a ticket, and your reply to a support e-mail adds to the same ticket.
+- **Set-up training**: from your customer area, enrol your participants in the sessions planned for your organization, within the number of seats.

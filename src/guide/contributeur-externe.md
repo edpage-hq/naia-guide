@@ -10,6 +10,10 @@ Transmettre à Naia les demandes de votre pôle.
 
 Vous faites partie d'un pôle d'edPage group — Commercial, Support, RH ou Facturation — et votre compte vous permet de transmettre vos demandes directement à Naia, sans passer par un e-mail ou un appel.
 
+::: info Un accès de transition
+Ces comptes servent aux pôles qui ne travaillent pas encore directement dans Naia. Depuis la V3, le commercial, le support, les ressources humaines et la Caisse ont leurs propres écrans dans Naia (voir l'[introduction](./introduction#les-roles-sur-naia)). Votre compte reste en service tant que votre pôle n'y est pas passé.
+:::
+
 Votre accès est volontairement restreint : vous ne voyez que **Mon espace**, qui contient le formulaire de votre pôle et la liste de vos soumissions. Vous n'accédez ni aux projets, ni aux documents, ni à la messagerie. Les recherches (client, projet, collaborateur) n'affichent qu'une référence et un nom.
 
 ## Obtenir son compte
@@ -55,4 +59,4 @@ La liste **Jalons facturables signalés** affiche chaque jalon facturable valid�
 - **À jour** : le paiement est réglé ; le jalon quitte votre liste ;
 - **En retard** : la Direction et l'administrateur sont alertés et décident de bloquer ou non le projet. Le jalon reste dans votre liste : quand le paiement est régularisé, repassez-le **À jour** pour permettre le déblocage.
 
-Vous êtes notifié, dans l'application et par e-mail, à chaque nouveau jalon facturable. Aucune donnée comptable n'est stockée dans Naia : vous ne faites qu'y indiquer un statut.
+Vous êtes notifié, dans l'application et par e-mail, à chaque nouveau jalon facturable. Vous ne faites qu'y indiquer un statut : les factures et les paiements eux-mêmes sont tenus par la Caisse.

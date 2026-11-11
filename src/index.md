@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Guide Naia
   text: Le guide utilisateur de Naia
-  tagline: Prise en main de la plateforme, un guide par rôle — client, partenaire, apporteur d'affaires, chef de projet, collaborateur, administrateur, direction.
+  tagline: Prise en main de la plateforme, un guide par rôle — clients, réseau commercial, partenaires, équipes projet, Caisse, support, RH, administration et Direction.
   image:
     src: /images/icon.svg
     alt: Naia
@@ -20,7 +20,7 @@ hero:
 features:
   - icon: 🧭
     title: Un guide par rôle
-    details: Chaque profil n'a accès qu'à ce qui le concerne — chaque page couvre exactement ce que vous voyez dans votre espace.
+    details: Chaque profil n'a accès qu'à ce qui le concerne. Chaque page couvre ce que vous voyez dans votre espace, et un même compte peut cumuler plusieurs rôles internes.
   - icon: 🔎
     title: Recherche locale
     details: Recherche plein texte intégrée pour retrouver rapidement une action ou une fonctionnalité.
@@ -34,30 +34,54 @@ features:
 <div class="role-grid">
   <a class="role-card" href="/guide/client">
     <strong>Client</strong>
-    <span>Suivi de projet, validation des livrables, paiement</span>
+    <span>Suivi de projet, livrables, paiement, espace client</span>
   </a>
   <a class="role-card" href="/guide/partenaire">
     <strong>Partenaire</strong>
-    <span>Tâches confiées, dépôt de factures</span>
+    <span>Tâches confiées, factures, paiement</span>
+  </a>
+  <a class="role-card" href="/guide/commercial-independant">
+    <strong>Commercial indépendant</strong>
+    <span>Code ED-, pistes, propositions, commissions</span>
   </a>
   <a class="role-card" href="/guide/apporteur-affaires">
     <strong>Apporteur d'affaires</strong>
-    <span>Portefeuille de clients, commissions</span>
+    <span>Code EDA-, clients présentés, commissions</span>
+  </a>
+  <a class="role-card" href="/guide/partenaire-influence">
+    <strong>Partenaire d'influence</strong>
+    <span>Code EDI-, vidéos, relevés</span>
   </a>
   <a class="role-card" href="/guide/chef-projet-collaborateurs">
-    <strong>Chef de projet</strong>
-    <span>Pilotage de projet de bout en bout</span>
+    <strong>Chef de projet & Collaborateurs</strong>
+    <span>Pilotage de projet, missions, livrables</span>
   </a>
-  <a class="role-card" href="/guide/chef-projet-collaborateurs">
-    <strong>Collaborateur</strong>
-    <span>Missions techniques, livrables</span>
+  <a class="role-card" href="/guide/responsable-commercial">
+    <strong>Responsable commercial</strong>
+    <span>Attribution, remises, candidatures, contrats</span>
+  </a>
+  <a class="role-card" href="/guide/caissier">
+    <strong>Caissier</strong>
+    <span>Encaissements, reçus, paiements, clôtures</span>
+  </a>
+  <a class="role-card" href="/guide/equipe-support">
+    <strong>Équipe support</strong>
+    <span>Tickets, visites, mise en service</span>
+  </a>
+  <a class="role-card" href="/guide/ressources-humaines">
+    <strong>Ressources humaines</strong>
+    <span>Dossiers, congés, paie</span>
+  </a>
+  <a class="role-card" href="/guide/formation">
+    <strong>Formation</strong>
+    <span>Catalogue, sessions, validation</span>
   </a>
   <a class="role-card" href="/guide/administrateur">
     <strong>Administrateur</strong>
-    <span>Comptes, facturation, sécurité</span>
+    <span>Comptes, facturation, paramètres, sécurité</span>
   </a>
   <a class="role-card" href="/guide/direction">
     <strong>Direction</strong>
-    <span>Vue d'ensemble en lecture seule</span>
+    <span>Décisions, indicateurs, suppléance, audit</span>
   </a>
 </div>

@@ -10,6 +10,10 @@ Send your pole's requests to Naia.
 
 You belong to one of edPage group's poles — Commercial, Support, HR or Billing — and your account lets you send your requests straight to Naia, instead of by e-mail or phone.
 
+::: info A transitional access
+These accounts serve the poles that don't work directly in Naia yet. Since V3, sales, support, human resources and the Cash module have their own screens in Naia (see the [introduction](./introduction#roles-on-naia)). Your account stays in service until your pole has moved over.
+:::
+
 Your access is deliberately narrow: you only see **My space**, which holds your pole's form and the list of your submissions. You don't have access to projects, documents or messaging. Searches (client, project, collaborator) only show a reference and a name.
 
 ## Getting your account
@@ -55,4 +59,4 @@ The **Signalled billable milestones** list shows each billable milestone validat
 - **Up to date**: the payment is settled; the milestone leaves your list;
 - **Overdue**: Direction and the administrator are alerted and decide whether to block the project. The milestone stays in your list: once the payment is settled, set it back to **Up to date** so the project can be unblocked.
 
-You're notified, in the app and by e-mail, of every new billable milestone. No accounting data is stored in Naia: you only record a status there.
+You're notified, in the app and by e-mail, of every new billable milestone. You only record a status there: the invoices and payments themselves are kept by the Cash module.

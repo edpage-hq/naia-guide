@@ -2,34 +2,71 @@
 layout: doc
 ---
 
-# Guide — Direction
+# Guide — Management
 
-A consolidated view of the activity, across every portfolio.
+Decide what is yours to decide and follow all activity.
 
-## Welcome to Naia
+## Your access
 
-Your Naia space gives you a consolidated view of every one of edPage group's projects and financial indicators. It's read-only, with one exception: deciding to block a project for non-payment.
+You read everything that happens on Naia: projects, sales, Cash, support, human resources and payroll. You act on the decisions that are yours, gathered in **To decide**. Two-factor authentication is mandatory for you (see [Account security](./introduction#two-factor-authentication)).
 
-## Consolidated project view
+Managing accounts, roles and back-office settings stays with the administrator.
 
-- Access a view of every ongoing project, across all project managers and portfolios.
-- Spot **at-risk projects** at a glance, without opening each project's page: those where the Billing pole reported an overdue payment awaiting your decision (listed first), and those already blocked for non-payment, with the date they were blocked.
+## To decide
 
-## Financial indicators
+**To decide** gathers what is waiting for your decision. Each line opens the screen where it's taken:
 
-- View the global financial indicators: invoiced and collected revenue, pending or overdue invoices, commissions due and paid to referrers.
-- Track each referrer's performance (number of clients referred, revenue generated, commissions due and paid).
+- **Disputes**: contested commission sheets;
+- **Assignments**: leads left without a sales agent;
+- **Discounts**: partner code discounts to settle, discount requests (as long as no other sales manager is appointed), appeals against a refusal;
+- **Expenses, payment orders and refunds** above the validation threshold;
+- **Blocks**: project payments reported overdue, announced ERA or ELEIS blocks;
+- **Renewals**: independent sales agent contracts ending within 15 days, with no decision;
+- **Prices on quote** to set or refuse;
+- **Payroll batches** to validate or send back;
+- depending on the settings, the **countersignature** of documents signed by sales actors and clients.
 
-## Deciding on blocking for non-payment
+Whoever prepared or validated an operation can't validate it again at your level, even if they also hold the Management role.
 
-When the Billing pole reports a payment as **overdue** on a billable milestone, you're alerted in the app and by e-mail. Nothing is blocked automatically: it's up to you — or the administrator — to decide, from the project page.
+## Indicators
 
-- **Block the project**: tasks already started can finish, but nobody can start a new task or validate a milestone. The client can still view, exchange and, above all, pay. The project manager and the team are notified.
-- **Do not block**: the project carries on normally; the report is considered handled.
-- When the Billing pole reports the payment **up to date**, **unblock the project** from its page.
+**Indicators** shows, month by month:
 
-Only the project concerned is blocked, never the same client's other projects. An internal invoice going overdue doesn't alert you: only the Billing pole's report counts.
+- receipts by product, outflows and cash by desk;
+- unpaid items;
+- commissions to pay and to validate;
+- leads and conversion by sales agent;
+- tickets open, overdue and resolved, with satisfaction;
+- refused partner code discounts and appeals in progress.
 
-## The scope of your access
+Your **Today** page also shows projects at risk: those for which the Billing pole reported an overdue payment awaiting a decision, and those already blocked.
 
-Apart from blocking for non-payment, your access is limited to viewing: you have access to neither account and role management, nor security settings, nor project messaging — those remain reserved for the Administrator and the Project manager.
+## Decisions reserved for you
+
+- **Codes**: change the code locked on a client, or link a code to a client who has none within 7 days of their sign-up. Always with a reason.
+- **Partner code discount**: grant it as an exception or refuse it (fraud found), from the lead's page.
+- **Territory**: give the written approval that lets an independent sales agent send a proposal to a client outside the network's territory.
+- **Price grid**: promotional periods and the partner code discount rate.
+- **Expense validation thresholds**, by type, from **Expenses**.
+- **Refunds**: approve or refuse them.
+- **SEDVER direct clients**: create them, with a reason.
+
+## Blocking for non-payment
+
+When the Billing pole reports an **overdue** payment on a billable milestone, you're alerted in the app and by e-mail. Nothing is blocked automatically: you (or the administrator) decide, from the project's page.
+
+- **Block the project**: tasks already started can finish, but no one can start a new task or validate a milestone. The client can still view, talk and pay.
+- **Don't block**: the project goes on normally; the report is considered handled.
+- When the Billing pole reports it **up to date**, **unblock the project** from its page.
+
+## Delegation
+
+From **Delegation**, delegate your decisions to an internal account during your absence: choose the period, the scope (disputes, sales, expenses and payments, blocks, contracts, prices on quote, payroll) and the reason.
+
+- During the period, your delegate holds the Management role for that scope only, and their "To decide" list only shows that scope.
+- The delegation starts and ends at the planned time. You can revoke it at any time.
+- You can't delegate to yourself, to another Management member, or to an external account.
+
+## Audit log
+
+The **Audit log** traces every sensitive action: role changes, decisions, Cash corrections, HR file openings, exports.

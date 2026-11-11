@@ -4,32 +4,44 @@ layout: doc
 
 # Guide — Referrer
 
-Track your client portfolio and your commissions.
+Recommend clients with your code and follow your commissions.
 
-## Welcome to Naia
+## Your role
 
-Your Naia space gives you a consolidated view of the projects of clients you've referred to edPage group.
+You recommend clients to edPage group; edPage group sells and delivers. Your tool is your **referrer code**, in the form `EDA-NAME` (for instance `EDA-JOSEPH`). It's private: you give it directly to the clients you recommend.
 
-## Your portfolio
+Your **Today** page shows your code and its status, the clients you've brought, your commissions and your invitations. It shows no projects, milestones or tasks: following them isn't your role.
 
-Your dashboard brings together:
+## Joining the network
 
-- the total number of projects in your portfolio, by status;
-- each project's progress (milestones reached, tasks);
-- your recent projects, with direct access to their page.
+1. Apply from the **Apply** link on the sign-in page ("Want to join the edPage network?"), choosing "Referrer".
+2. If your application is accepted, you receive a personal link by e-mail, valid for 7 days. There you confirm your address with a code, read the referrer agreement to the end, enter your details and sign with a second code. You can change your code's name there.
+3. Once edPage group has countersigned the agreement, you create your account. Your code exists, but it's still **not active**.
+4. Take your training (about 1 hour) from **My training** and pass its quiz (80% correct answers). Your code then becomes active.
 
-On a project's page, you'll find the same Tracking/Collaboration/Finance tabs as other participants (within what concerns you): view shared deliverables and reports, and upload your own documents (client files, additional information) from the Documents tab.
+No commission is possible before your code is active.
 
-## Billing and financial tracking
+## Your code
 
-- Track the payment schedule and billing status of your portfolio's projects (due, paid, and upcoming installments) from each project's **Billing** tab.
-- A project blocked for non-payment shows the **Blocked (unpaid)** status in your portfolio.
-- Your dashboard shows the total of your **commissions due and paid**, automatically calculated on the payments actually received from your projects' clients (not just the invoiced amount) — your commission rate is set by the administrator and stated in your agency agreement.
+- A client who gives your code at their first sign-up or first quote is linked to you for good, on every product. A client has only one code.
+- A client already linked to another code can't be linked to you. A code that is not active or suspended links no one.
+- If a client forgot your code, Management can link it within 7 days of their sign-up, provided you recorded a contact with that client. After that, it's no longer possible.
+- Your code gives the client no discount.
+
+## Your commissions
+
+- You earn a commission on the **first purchase** of each client you bring, calculated on what the client actually paid, at each payment: 10% by default on ERA and ELEIS licences, and on NEXTBOXX instalments according to the current scale.
+- A refund or a cancelled payment takes back the matching commission, deducted from your next sheet.
+- On the 1st of each month, Naia draws up your **commission sheet** for the previous month, by product. From **Commissions**, validate or contest it within 5 business days; without an answer, it's deemed validated.
+- A validated sheet is paid by the Cash module, with the method saved in your profile, and you receive its receipt.
+
+Since V3, you no longer earn anything on edPage group's projects and services. Commissions already calculated on older projects remain due and still appear in your history.
 
 ## Inviting a client
 
-From your space, you can invite a client onto the platform (**Invite** menu) and track their account activation. It's the only account type you can invite directly.
+From **Invite**, invite a client to Naia and follow the activation of their access. It's the only type of account you can invite.
 
-## Communication
+## Price grid and support
 
-Talk with the internal project manager about the projects in your portfolio via built-in messaging, and receive notifications on key steps and points of concern (delay, non-payment).
+- **Price grid**: view each product's offers and their current price, to inform the clients you recommend.
+- **My requests to edPage**: ask the support team your questions. Your queue is handled first, with an answer within 24 business hours.
