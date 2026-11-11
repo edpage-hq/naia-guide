@@ -19,7 +19,8 @@ Before joining a first project, you must have passed a training from the "Partne
 Your **Today** page and **My Tasks** gather the assignments given to you, across all projects:
 
 - view the tasks and specifications that concern you;
-- update their progress (to do, in progress, done) and upload your deliverables from their page.
+- update their progress (to do, in progress, done) and upload your deliverables from their page;
+- follow their due date and priority, set by the project manager: overdue tasks come first, then the others by due date. You get a reminder the day before each due date, and an alert if it passes.
 
 ## Your pay
 

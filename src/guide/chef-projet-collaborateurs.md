@@ -22,6 +22,14 @@ Ce guide couvre deux profils proches : le **Chef de projet**, qui pilote un proj
 - Les pôles Support et Commercial peuvent signaler un besoin de développement sur votre projet : il devient une tâche, avec un badge **Support** ou **Commercial** qui en indique l'origine, et vous êtes notifié.
 - Suivez l'avancement global avec les vues **Gantt** (par phase et jalon) ou **Kanban** (par statut de tâche).
 
+### Échéances et priorités des tâches
+
+- En ajoutant ou en modifiant une tâche, donnez-lui une **échéance** (facultative) et une **priorité** : basse, normale, haute ou urgente. Elle est normale par défaut. Vous seul, comme chef de projet, et l'administrateur pouvez les changer : l'assigné les voit sans pouvoir les modifier.
+- Les badges de chaque tâche montrent sa priorité et son échéance : **En retard**, **Échéance aujourd'hui**, **Échéance demain** ou la date. Dans l'onglet **Tâches**, filtrez par priorité ou par échéance (en retard, sous 2 jours, sans échéance), en liste comme en Kanban.
+- Si une tâche est due avant une tâche dont elle dépend, un avertissement s'affiche sous la tâche. Rien n'est bloqué : à vous d'ajuster les dates.
+- La veille de l'échéance, l'assigné reçoit un rappel. Le lendemain de l'échéance, si la tâche n'est pas terminée, vous et l'assigné êtes prévenus de son retard, une seule fois. Repousser l'échéance ou terminer la tâche ferme l'alerte. Un projet bloqué pour impayé ne déclenche ni rappel ni alerte.
+- Sur votre page **Aujourd'hui**, le bloc **Tâches de mes projets à échéance** liste les tâches de vos projets en retard ou à rendre dans les 2 jours.
+
 ### Jalons et facturation
 
 - À la validation d'un jalon **non facturable**, ajoutez un compte rendu visible par le client et, quand c'est utile, un lien de démo.
@@ -46,6 +54,7 @@ Le parcours est le même quel que soit votre métier (Consultant en transformati
 
 - Consultez les tâches qui vous sont assignées, tous projets confondus, depuis **Mes tâches** ou l'onglet **Tâches** d'un projet.
 - Mettez à jour leur avancement (à faire, en cours, terminée) et déposez vos livrables depuis leur fiche.
+- **Mes tâches** place en tête les tâches en retard, puis les classe par échéance et par priorité. L'échéance et la priorité sont fixées par le chef de projet. Vous recevez un rappel la veille de chaque échéance, et une alerte si elle est dépassée.
 - Échangez avec le chef de projet et, selon le contexte, avec le client, par la messagerie du projet.
 
 ### Votre dossier et vos formations

@@ -22,6 +22,14 @@ This guide covers two closely related profiles: the **Project manager**, who run
 - The Support and Commercial poles can report a development need on your project: it becomes a task, with a **Support** or **Commercial** badge showing its origin, and you're notified.
 - Track overall progress with the **Gantt** view (by phase and milestone) or the **Kanban** view (by task status).
 
+### Task due dates and priorities
+
+- When you add or edit a task, give it a **due date** (optional) and a **priority**: low, normal, high or urgent. It's normal by default. Only you, as project manager, and the administrator can change them: the assignee sees them but can't edit them.
+- Each task's badges show its priority and due date: **Overdue**, **Due today**, **Due tomorrow** or the date. In the **Tasks** tab, filter by priority or by due date (overdue, within 2 days, no due date), in the list as in the Kanban.
+- If a task is due before a task it depends on, a warning shows under the task. Nothing is blocked: it's up to you to adjust the dates.
+- The day before the due date, the assignee gets a reminder. The day after the due date, if the task isn't done, you and the assignee are told it's overdue, once. Moving the due date or finishing the task closes the alert. A project blocked for non-payment raises no reminder and no alert.
+- On your **Today** page, the **Tasks of my projects coming due** block lists your projects' tasks that are overdue or due within 2 days.
+
 ### Milestones and billing
 
 - When you validate a **non-billable** milestone, add a report visible to the client and, when useful, a demo link.
@@ -46,6 +54,7 @@ The flow is the same whatever your job (Digital transformation consultant, Devel
 
 - View the tasks assigned to you, across all projects, from **My Tasks** or a project's **Tasks** tab.
 - Update their progress (to do, in progress, done) and upload your deliverables from their page.
+- **My Tasks** puts overdue tasks first, then sorts them by due date and priority. The project manager sets the due date and priority. You get a reminder the day before each due date, and an alert if it passes.
 - Talk with the project manager and, depending on the context, with the client, through the project's messaging.
 
 ### Your file and your trainings

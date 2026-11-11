@@ -19,7 +19,8 @@ Avant de rejoindre un premier projet, vous devez avoir validé une formation du 
 Votre page **Aujourd'hui** et **Mes tâches** regroupent les missions qui vous sont confiées, tous projets confondus :
 
 - consultez les tâches et spécifications qui vous concernent ;
-- mettez à jour leur avancement (à faire, en cours, terminée) et déposez vos livrables depuis leur fiche.
+- mettez à jour leur avancement (à faire, en cours, terminée) et déposez vos livrables depuis leur fiche ;
+- suivez leur échéance et leur priorité, fixées par le chef de projet : les tâches en retard viennent en tête, puis les autres par échéance. Vous recevez un rappel la veille de chaque échéance, et une alerte si elle est dépassée.
 
 ## Votre rémunération
 
