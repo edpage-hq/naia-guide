@@ -71,6 +71,12 @@ Après connexion, vous arrivez sur **Aujourd'hui**. Cette page rassemble :
 
 Le menu à gauche est regroupé par domaine : Commercial, Facturation, Caisse, Équipe, Support, Direction et Administration. Vous ne voyez que les rubriques auxquelles vous avez accès.
 
+## Conditions générales et vos documents
+
+À votre première connexion, et chaque fois qu'une nouvelle version est publiée, Naia vous demande d'accepter les **conditions générales** : lisez-les, cochez la case puis validez. Vous les retrouvez à tout moment dans le menu de votre compte.
+
+Le menu de votre compte contient aussi **Mes documents** : les documents que edPage group vous adresse (contrat, avenant, notification), leur état, et les PDF signés. Pour signer un document, ouvrez-le, lisez-le jusqu'au bout, demandez le code reçu par e-mail et saisissez-le. Vous pouvez aussi le refuser, avec un motif. Un document non signé à temps expire : demandez-en un nouveau.
+
 ## Sécurité du compte
 
 ### Double authentification
