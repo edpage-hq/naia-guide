@@ -4,32 +4,69 @@ layout: doc
 
 # Guide — Direction
 
-Vue consolidée de l'activité, tous portefeuilles confondus.
+Décider de ce qui vous revient et suivre toute l'activité.
 
-## Bienvenue sur Naia
+## Votre accès
 
-Votre espace Naia vous donne une vue consolidée de l'ensemble des projets et indicateurs financiers d'edPage group. Vous la consultez en lecture seule, à une exception près : la décision de bloquer un projet pour impayé.
+Vous lisez tout ce qui se passe sur Naia : projets, commercial, Caisse, support, ressources humaines et paie. Vous agissez sur les décisions qui vous reviennent, rassemblées dans **À décider**. La double authentification est obligatoire pour vous (voir [Sécurité du compte](./introduction#double-authentification)).
 
-## Vue consolidée des projets
+La gestion des comptes, des rôles et des paramètres du back-office reste réservée à l'administrateur.
 
-- Accédez à une vue de l'ensemble des projets en cours, tous chefs de projet et portefeuilles confondus.
-- Identifiez en un coup d'œil les **projets à risque** sans ouvrir chaque fiche projet : ceux dont le pôle Facturation a signalé un retard de paiement en attente de votre décision (en tête de liste), et ceux déjà bloqués pour impayé, avec leur date de blocage.
+## À décider
 
-## Indicateurs financiers
+**À décider** rassemble ce qui attend votre décision. Chaque ligne ouvre l'écran où elle se prend :
 
-- Consultez les indicateurs financiers globaux : chiffre d'affaires facturé et encaissé, factures en attente ou en retard, commissions dues et versées aux apporteurs d'affaires.
-- Suivez la performance de chaque apporteur d'affaires (nombre de clients apportés, chiffre d'affaires généré, commissions dues et versées).
+- **Litiges** : fiches de commissions contestées ;
+- **Attributions** : pistes restées sans commercial ;
+- **Remises** : remises de code partenaire à trancher, demandes de remise (tant qu'aucun autre responsable commercial n'est désigné), recours sur un refus ;
+- **Dépenses, ordres de paiement et remboursements** au-dessus du seuil de validation ;
+- **Blocages** : paiements de projet signalés en retard, blocages d'ERA ou d'ELEIS annoncés ;
+- **Renouvellements** : contrats de commerciaux indépendants dont l'échéance tombe dans les 15 jours, sans décision ;
+- **Prix sur devis** à fixer ou refuser ;
+- **Lots de paie** à valider ou renvoyer ;
+- selon le paramétrage, la **contre-signature** des documents signés par les acteurs commerciaux et les clients.
 
-## Décider du blocage pour impayé
+Celui qui a préparé ou validé une opération ne peut pas la valider à nouveau à votre niveau, même s'il a aussi le rôle Direction.
 
-Quand le pôle Facturation signale un paiement **en retard** sur un jalon facturable, vous êtes alerté dans l'application et par e-mail. Rien n'est bloqué automatiquement : c'est à vous — ou à l'administrateur — de décider, depuis la fiche du projet.
+## Indicateurs
 
-- **Bloquer le projet** : les tâches déjà démarrées peuvent se terminer, mais personne ne peut démarrer de nouvelle tâche ni valider de jalon. Le client peut toujours consulter, échanger et surtout payer. Le chef de projet et l'équipe sont notifiés.
+**Indicateurs** présente, mois par mois :
+
+- les encaissements par produit, les sorties et la trésorerie par caisse ;
+- les impayés ;
+- les commissions à payer et à valider ;
+- les pistes et la conversion par commercial ;
+- les tickets ouverts, en dépassement et résolus, avec la satisfaction ;
+- les remises de code partenaire refusées et les recours en cours.
+
+Votre page **Aujourd'hui** montre aussi les projets à risque : ceux dont le pôle Facturation a signalé un retard de paiement en attente de décision, et ceux déjà bloqués.
+
+## Décisions qui vous sont réservées
+
+- **Codes** : changer le code verrouillé sur un client, ou rattacher un code à un client qui n'en a pas dans les 7 jours de son inscription. Toujours avec un motif.
+- **Remise de code partenaire** : l'accorder à titre exceptionnel ou la refuser (fraude découverte), depuis la fiche de la piste.
+- **Territoire** : donner l'accord écrit qui permet à un commercial indépendant d'envoyer une proposition à un client hors du territoire du réseau.
+- **Grille de prix** : les périodes promotionnelles et le taux de la remise du code partenaire.
+- **Seuils de validation des dépenses**, par type, depuis **Dépenses**.
+- **Remboursements** : les approuver ou les refuser.
+- **Clients directs SEDVER** : les créer, avec un motif.
+
+## Blocage pour impayé
+
+Quand le pôle Facturation signale un paiement **en retard** sur un jalon facturable, vous êtes alerté dans l'application et par e-mail. Rien n'est bloqué automatiquement : vous (ou l'administrateur) décidez, depuis la fiche du projet.
+
+- **Bloquer le projet** : les tâches déjà démarrées peuvent se terminer, mais personne ne peut démarrer de nouvelle tâche ni valider de jalon. Le client peut toujours consulter, échanger et payer.
 - **Ne pas bloquer** : le projet continue normalement ; le signalement est considéré comme traité.
 - Quand le pôle Facturation signale le retour **à jour**, **débloquez le projet** depuis sa fiche.
 
-Seul le projet concerné est bloqué, jamais les autres projets du même client. Une facture interne en retard ne déclenche pas d'alerte à votre intention : seul le signalement du pôle Facturation compte.
+## Suppléance
 
-## Périmètre de votre accès
+Depuis **Suppléance**, déléguez vos décisions à un compte interne pendant votre absence : choisissez la période, le périmètre (litiges, commercial, dépenses et paiements, blocages, contrats, prix sur devis, paie) et le motif.
 
-En dehors du blocage pour impayé, votre accès est limité à la consultation : vous n'avez accès ni à la gestion des comptes et des rôles, ni aux paramètres de sécurité, ni à la messagerie des projets — ces aspects restent réservés à l'Administrateur et au Chef de projet.
+- Pendant la période, votre suppléant a le rôle Direction pour ce périmètre seulement, et sa liste « À décider » ne montre que ce périmètre.
+- La délégation démarre et se termine à l'heure prévue. Vous pouvez la révoquer à tout moment.
+- Vous ne pouvez déléguer ni à vous-même, ni à un autre membre de la Direction, ni à un compte externe.
+
+## Journal d'audit
+
+Le **Journal d'audit** retrace chaque action sensible : changements de rôle, décisions, corrections en Caisse, ouvertures de dossiers RH, exports.

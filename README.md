@@ -1,8 +1,10 @@
-# guide-starter
+# naia-guide
 
 ## Description
 
-Starter repo for edpage-hq documentation sites. Provides a [VitePress](https://vitepress.dev) site with French/English content, local search, multi-version docs, a custom theme and CI already wired up — clone it to start a new docs project instead of scaffolding from scratch.
+The user guide of [Naia](https://naia.edpage.net), edPage group's management platform. One page per role (client, sales network, partners, project teams, Cash, support, HR, training, administration, Management), in French (root locale) and English. The content describes Naia V3.
+
+Built from the edpage-hq `guide-starter` template: [VitePress](https://vitepress.dev) with local search, multi-version docs and CI.
 
 ## Tech stack
 
@@ -25,6 +27,10 @@ pnpm docs:dev
 ```
 
 The site is served locally at `http://localhost:5173/docs/` (French root at `/docs/`, English at `/docs/en/`).
+
+## Adding a page
+
+Every page exists in both languages: `src/guide/<slug>.md` and `src/en/guide/<slug>.md`, with the same slug. Add its sidebar entry in `.vitepress/config/locales/fr.ts` and `en.ts`, and, for a new role, its card on both homepages (`src/index.md`, `src/en/index.md`). Use the labels exactly as they appear in Naia's interface.
 
 ## Versioning the docs
 
