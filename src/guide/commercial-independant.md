@@ -94,9 +94,17 @@ Vous n'accordez jamais seul une remise. Depuis le brouillon, demandez-la avec un
 ## Commissions
 
 - Vous touchez une commission sur ce que vos clients ont réellement payé, ligne par ligne, à chaque encaissement : par défaut 25 % sur les licences ERA et ELEIS, 15 % sur l'abonnement cloud ELEIS, et sur chaque tranche NEXTBOXX selon le barème. Rien sur la maintenance ni les options.
-- Les mensualités sont commissionnées pendant les 12 premiers mois, et les ventes complémentaires au même client dans les 12 mois suivant sa première vente.
+- Les mensualités du cloud ELEIS sont commissionnées pendant les 12 premiers mois. Au Togo, les pôles, modules et options vendus après la première vente ne rapportent pas de commission.
+- Vous ne touchez rien sur un client d'un autre pays que le vôtre, sauf accord de territoire de la Direction sur sa piste.
 - Un remboursement ou un paiement annulé reprend la commission correspondante, déduite de votre fiche suivante.
 - Le 1er de chaque mois, Naia établit votre **fiche de commissions** du mois précédent, par produit. Validez-la ou contestez-la sous 5 jours ouvrés ; sans réponse, elle est considérée comme validée. Une fiche validée est payée sous 5 jours ouvrés, avec son reçu.
+
+### Si vous exercez hors du Togo
+
+- Vous touchez en plus une **prime de nouveau pays** de 50 000 FCFA à votre première vente encaissée dans le pays, puis, pendant 24 mois après le rattachement du client, 25 % (paiement unique) ou 15 % (récurrent) sur ses licences, pôles, modules et options, 10 % sur la maintenance et 10 % sur l'hébergement vendu avec la licence. Ces avantages ont leur propre ligne sur la fiche.
+- Tant que la Direction n'a pas enregistré la **validation juridique de votre pays**, votre fiche est bloquée : la commission est conservée et vous la recevez dès la validation.
+- Quand la Direction décide d'un **partage 70/30** entre deux codes sur un client, chaque titulaire reçoit sa part avec son propre taux.
+- **Prestations annexes** : depuis la fiche d'une piste, rédigez l'engagement de confidentialité CI-08 pour un établissement (vous le signez avec un code reçu par e-mail, puis l'établissement le signe par un lien valable 15 jours), puis déclarez vos prestations : formation du personnel, installation hors ligne (formation technique et quiz validés), saisie de données (CI-08 signé). Vous les facturez vous-même : Naia ne facture rien et ne verse aucune commission dessus.
 
 ## Contrat, objectifs et bilans
 

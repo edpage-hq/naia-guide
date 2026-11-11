@@ -94,9 +94,17 @@ You never grant a discount alone. From the draft, request it with a justificatio
 ## Commissions
 
 - You earn a commission on what your clients actually paid, line by line, at each payment: by default 25% on ERA and ELEIS licences, 15% on the ELEIS cloud subscription, and on each NEXTBOXX instalment according to the scale. Nothing on maintenance or options.
-- Monthly payments are commissioned for the first 12 months, and complementary sales to the same client within 12 months of their first sale.
+- ELEIS cloud monthly payments are commissioned for the first 12 months. In Togo, poles, modules and options sold after the first sale earn no commission.
+- You earn nothing on a client from a country other than yours, unless the Direction gave a territory approval on their lead.
 - A refund or a cancelled payment takes back the matching commission, deducted from your next sheet.
 - On the 1st of each month, Naia draws up your **commission sheet** for the previous month, by product. Validate or contest it within 5 business days; without an answer, it's deemed validated. A validated sheet is paid within 5 business days, with its receipt.
+
+### If you practise outside Togo
+
+- You also earn a **new country bonus** of 50,000 FCFA on your first collected sale in the country, then, for 24 months after the client is attached, 25% (one-off) or 15% (recurring) on their licences, poles, modules and options, 10% on maintenance and 10% on hosting sold with the licence. These benefits have their own line on the sheet.
+- Until the Direction has recorded the **legal validation of your country**, your sheet is blocked: the commission is kept and you receive it as soon as the validation is recorded.
+- When the Direction decides on a **70/30 split** between two codes on a client, each holder receives their share at their own rate.
+- **Side services**: from a lead's page, draw up the CI-08 confidentiality commitment for an establishment (you sign it with a code received by e-mail, then the establishment signs it through a link valid for 15 days), then declare your services: staff training, offline installation (technical training and quiz validated), data entry (CI-08 signed). You invoice them yourself: Naia invoices nothing and pays no commission on them.
 
 ## Contract, objectives and reviews
 

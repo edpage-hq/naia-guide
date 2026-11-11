@@ -47,6 +47,8 @@ Your **Today** page also shows projects at risk: those for which the Billing pol
 - **Partner code discount**: grant it as an exception or refuse it (fraud found), from the lead's page.
 - **Territory**: give the written approval that lets an independent sales agent send a proposal to a client outside their country of practice.
 - **Country of practice**: change a network member's country, from their commercial contract page. A country other than Togo needs the "outside Togo" document: Naia sends it to the member to sign and the country changes once it is signed, or you record a document signed outside Naia (title, signing date, signatory). You also accept applications from outside Togo, choosing the country. The member receives a new code in that country and keeps their clients; their former number is never given again.
+- **Legal validation of a country**: from **Countries**, record the validation (date, counsel's reference, mandatory attachment). Until it is recorded, the commission sheets of that country are blocked; they restart with a new 5-working-day delay as soon as it is recorded.
+- **70/30 commission split**: on a lead's page, record the decision (two active codes, reference, date). It applies to later sales by proposal, not to NEXTBOXX.
 - **Contractual notices**: the sales manager prepares the draft; you send it from the member's page. It is counter-signed in your name and the member receives it with its PDF.
 - **Price grid**: promotional periods and the partner code discount rate.
 - **Expense validation thresholds**, by type, from **Expenses**.
