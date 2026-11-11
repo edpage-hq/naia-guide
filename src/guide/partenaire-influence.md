@@ -40,6 +40,8 @@ Publiez au moins **3 vidéos par mois** avec la mention « Code partenaire EDI-�
 
 Dans **Mes vidéos**, enregistrez chaque vidéo (lien et date de publication) : c'est la preuve demandée. Enregistrez-la dans les 3 jours ouvrés qui suivent la publication ; au-delà, elle est marquée « en retard » mais compte quand même. Le compteur du mois vous indique où vous en êtes. Si vous démarrez en cours de mois, le minimum complet ne s'applique pas ce mois-là.
 
+Les vidéos doivent être publiées sur **au moins 2 canaux** par mois (YouTube, TikTok, Instagram…) : Naia déduit le canal du lien. Si vous restez **60 jours sans enregistrer de vidéo**, votre code est **mis en pause** : il n'est plus partageable (un client qui le saisit voit « Code non actif ») et vous en êtes prévenu ainsi que le responsable commercial. Il redevient actif dès votre prochaine vidéo enregistrée.
+
 ## Vos commissions
 
 - Vous touchez une commission sur le **premier achat** de chaque client venu par votre code, calculée sur ce qu'il a réellement payé : par défaut 15 % sur les licences ERA et ELEIS, et 5 % sur chaque tranche NEXTBOXX d'un apprenant admis.
